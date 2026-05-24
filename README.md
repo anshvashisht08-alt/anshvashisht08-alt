@@ -37,13 +37,14 @@
 
 ---
 
-## 🚀 Most Used Languages
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshvashisht08-alt&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 🚀 Currently Learning
+- C
+- JAVA
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Git & GitHub
+- Open Source
 
 ---
 
